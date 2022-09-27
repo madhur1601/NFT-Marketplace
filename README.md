@@ -1,8 +1,8 @@
-Clone this repo
+# Clone this repo
 
 NOTE: Change the port 8545 to 7545 in 'truffle-config.js' (As per the Ganache)
 
-```bash
+
 $ cd NFT-Marketplace
 
 # install the dependencies
@@ -23,4 +23,3 @@ $ yarn start
 $ cd backend
 $ yarn
 $ yarn start
-```
